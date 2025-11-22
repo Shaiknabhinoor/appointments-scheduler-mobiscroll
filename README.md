@@ -83,6 +83,6 @@ export default function App() {
 
 ## ✅ **Step 5 — Run the App**
 
-npm run dev
+npm run dev or npm start
 
 You should now see a working Mobiscroll calendar UI.
